@@ -11,10 +11,12 @@
     <h2> Experiência Profissional</h2>
     <hr align="left"; width="300">
     <h3>Microsoft Corporation</h3>
+    <img src="https://th.bing.com/th/id/OIP.zd12lNzj3p9ssEKO7hqA1wAAAA?w=324&h=69&c=7&r=0&o=5&pid=1.7" alt="logo microsoft"
     <p><strong>Cargo:</strong> Desenvolvedor Junior</p>
     <p><strong>Periodo:</strong> 02/2017 - 02/2020</p>
     <hr align="left"; width="100">
     <h3> IBM Corporation</h3>
+    <img src="https://th.bing.com/th/id/OIP.0uQbxejmQ4X0bXGpaGoTYgHaD5?w=319&h=180&c=7&r=0&o=5&pid=1.7"   alt="logo ibm"
     <p><strong>Cargo:</strong> Desenvolvedor Pleno</p>
     <p><strong>Periodo:</strong> 06/2020 - 01/2024</p>
     <hr>
@@ -22,14 +24,16 @@
     <hr align="left"; width="300">
     <ol>
         <li > <strong> Colegio Adventista de Paulínia </strong> </li> 
+ <img src="https://th.bing.com/th/id/OIP.OYGFdevEMYE1uL273IxvnAHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7" alt="logo adventista">
         <p><strong> Curso:</strong> Ensino Médio</p>
         <p><strong> Periodo:</strong> 01/2008 - 12/2010 </p>
         <hr align="left"; width="100">
         <li > <strong> Etec Bento Quirino </strong> </li> 
+<img src="https://th.bing.com/th/id/OIP.06aF1o-oPe_hm60pxlp1lQE7DF?w=282&h=180&c=7&r=0&o=5&pid=1.7" alt="logo etec">
         <p><strong> Curso:</strong> Técnico em Desenvolvimento de Sistemas </p>
         <p><strong> Periodo:</strong> 01/2009 - 06/2010 </p>
         <hr align="left"; width="100">
-        <li > <strong> Harvard University </strong> </li>  <img src="https://www.bing.com/ck/a?!&&p=51086b2f70d7b30cJmltdHM9MTcxMjc5MzYwMCZpZ3VpZD0zODE5YTZjYS0yMzgwLTY4ZmEtMmYxMS1iMjk0MjI0ZDY5ZGMmaW5zaWQ9NTYxNg&ptn=3&ver=2&hsh=3&fclid=3819a6ca-2380-68fa-2f11-b294224d69dc&u=a1L2ltYWdlcy9zZWFyY2g_cT1sb2dvJTIwaGF2YXJkJkZPUk09SVFGUkJBJmlkPTYwMkEwMDUzMjgxQjA2NkRCNDE5OUEwOEI4MjQ3RENFNUZEQ0Y4QjU&ntb=1" alt="logo harvard">        
+        <li > <strong> Harvard University </strong> </li>  <img src="https://th.bing.com/th/id/OIP.n67VUgSC5BNDBDKt5oYAjAAAAA?pid=ImgDet&w=203&h=203&c=7" alt="logo harvard">        
 <p><strong> Curso:</strong> Graduação em Engenharia de Software </p>
         <p><strong> Periodo:</strong> 06/2011 - 12/2016 </p>
     </ol>
